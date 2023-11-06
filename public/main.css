@@ -11,3 +11,12 @@ img {
     width: auto;
     height: auto;
 }
+
+#myForm {
+    margin: auto;
+    text-align: center;
+    font-size: 16px;
+    padding: 10px;
+    background-color: red;
+    size: 4;
+}
